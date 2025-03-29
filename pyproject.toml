@@ -1,0 +1,5 @@
+[project]
+name = "dm-code-agent"
+version = "0.1.0"
+description = "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number reproducible, negative results included."
+requires-python = ">=3.10"
