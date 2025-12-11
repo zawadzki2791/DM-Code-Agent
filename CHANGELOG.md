@@ -13,3 +13,4 @@
 - docs: fix a small wording issue
 - chore: add a note about the defaults
 - chore: clarify the setup steps
+- docs: add a note about the defaults
